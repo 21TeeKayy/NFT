@@ -13,11 +13,11 @@ python -m venv venv
 5) Activate venv:
 .\venv\Scripts\activate
 
-6) Install this
+6) Install this:
 pip install -r requirements.txt
 
-7) Go to "src" directory
+7) Go to "src" directory:
 cd src
 
-8) Run our app
+8) Run our app:
 flask --app p.py run

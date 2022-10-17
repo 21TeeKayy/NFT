@@ -1,4 +1,5 @@
-
+# NFT App
+This is a web-application with which you can get information about any NFT!
 # Installation 
 1) Use this command:
 git clone https://github.com/21TeeKayy/NFT

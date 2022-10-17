@@ -1,3 +1,5 @@
+
+# Installation 
 1) Use this command:
 git clone https://github.com/21TeeKayy/NFT
 
@@ -21,3 +23,9 @@ cd src
 
 8) Run our app:
 flask --app p.py run
+
+# Example
+![image](https://user-images.githubusercontent.com/96559393/196118559-4586559f-3e14-4bb9-8d36-8fc579b2c81d.png)
+
+# License
+GNU General Public License v3.0
